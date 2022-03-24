@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f6f5;
+    width:1440px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 300,600;
+  }
+div{
+    background: url ('C:\Users\Lenovo S145\Desktop\MIDTERM\images\bg-pattern-intro-desktop.svg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+    background-color: hsl(20, 94%, 51%);
+}
+header{
+    color:black;
+    text-indent:250px ;
+    font-weight: 300,600;
+    font-size: x-large;
+}
+h1 {
+    color:white;
+    text-align: center ;
+    font-size:xx-large;
+}
+h2 {
+    color:white;
+    text-align: center ;
+    font-size:large;
+}
+h3 {
+    color:black;
+    text-align: center ;
+    font-size:x-large;
+}
+h4 {
+    color:black;
+    text-indent:200px ;
+    font-size:x-large;
+}
+p {
+    color:black;
+    text-indent:200px ;
+    font-size:large;
+}
